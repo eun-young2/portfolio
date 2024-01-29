@@ -33,7 +33,8 @@
 >개발 기간: 2024.12.17 ~ 2024.1.24  
 >  
 >기술 스택:  
->Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5 
+>Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5
+><br/>
 >Maven / WebSocket / JavaScript / Html / CSS / 
 >
 >
