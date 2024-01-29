@@ -34,8 +34,9 @@
 >  
 >기술 스택:  
 >Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5 
->Maven / WebSocket / JavaScript / Html / Css 
->  
+>Maven / WebSocket / JavaScript / Html / CSS / 
+>
+>
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
 ---
