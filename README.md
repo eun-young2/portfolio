@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: dmsdud8882@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: [https://github.com/JungHyung2](https://github.com/eun-young2/portfolio)
 
 </br>
 
