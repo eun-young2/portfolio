@@ -19,7 +19,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
+### 1. [포트폴리오]
 >  
 >
 >  
