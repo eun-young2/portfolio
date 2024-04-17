@@ -74,7 +74,7 @@
 ><br>
 >Maven /JavaScript / Html / CSS/ React
 ><br>
->맡은 역할 : Backendm,Frontend,Modeling <br>
+>맡은 역할 : Backend,Frontend,Modeling <br>
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit/blob/main/README.md) 참고
 
 </br>
