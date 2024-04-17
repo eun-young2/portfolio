@@ -43,6 +43,7 @@
 ## :pushpin: 프로젝트
 ### 2. [첫 번째 프로젝트](https://github.com/Parkjinew/Baseball-Data/blob/main/%EC%95%BC%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D(B4).ipynb)
 > 야구 데이터 분석 (팀 프로젝트)
+> <br>
 > 개발 기간 :2023.11.08 ~ 2023.11.10
 >
 > 기술 스택 : Python/ Flask/ JavaScript / Html / CSS
@@ -65,6 +66,7 @@
 
 ### 3. [세 번째 프로젝트](https://github.com/illhanunjung/ReadFit/blob/main/README.md)
 >자연어처리기반 2030 남성들을 위한 신발 리뷰 분석 플랫폼 (팀 프로젝트)
+><br>
 >개발 기간: 2024.3.12 ~ 2024.4.15  
 >  
 >기술 스택:  
