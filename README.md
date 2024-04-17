@@ -25,10 +25,10 @@
 >  
 > <br>
 >
-> ![image](https://github.com/eun-young2/portfolio/assets/153056455/0850cd88-42c9-4862-b83a-91b910fc89b3)
-> ![image](https://github.com/eun-young2/portfolio/assets/153056455/6ef4aeed-f815-4ff9-a80e-657aa8fc65ea)
-> ![image](https://github.com/eun-young2/portfolio/assets/153056455/2ef46304-53c7-4fbd-83bc-7720df73808b)
-> ![image](https://github.com/eun-young2/portfolio/assets/153056455/c1ec515b-d954-4965-91e4-ce5756581d00)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/7bf7aaa1-cb62-49e8-9158-23d1724aead8)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/668f6b84-604b-4ea1-aeb6-79b95ca9cc98)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/fa4c4479-2763-4cc2-9e13-8c26c9d83a2c)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/04995843-dcda-4b95-bdf0-359818805955)
 
 <br>
 >Backend : Java / Spring Boot / Maven / Spring / Python
