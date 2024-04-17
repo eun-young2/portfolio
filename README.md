@@ -24,7 +24,8 @@
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
 >기술 스택:  
->Java / Spring Boot / Maven / Spring / Python 
+>Java / Spring Boot / Maven / Spring / Python
+><br>
 > React / Oracle / MySQL / JavaScript / HTML / CSS  / AWS 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
