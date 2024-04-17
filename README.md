@@ -26,7 +26,7 @@
 >기술 스택:  
 >Java / Spring Boot / Maven / Spring / Python
 ><br>
-> React / Oracle / MySQL / JavaScript / HTML / CSS  / AWS 
+> React / Oracle / MySQL / JavaScript / HTML / CSS  / AWS EC2활용한 서비스 배포
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
