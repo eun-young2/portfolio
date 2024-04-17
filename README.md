@@ -23,13 +23,19 @@
 >  
 >
 >  
->기술 스택:  
->Backend : Java / Spring Boot / Maven / Spring / Python
-><br>
-> Frontend : React / JavaScript / HTML / CSS 
-><br>
-> DB: Oracle / MySQL
+>기술 스택:
 > <br>
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/88b5b430-d1a6-40d9-be25-b9f0262e0afe)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/ce30c92c-9fa9-4982-9037-4551b5908b6f)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/2b2c916b-0f52-4bd5-b48b-7d7afc041040)
+> ![image](https://github.com/eun-young2/portfolio/assets/153056455/d936e764-47f3-45e2-8257-f854ecc73da7)
+<br>
+>Backend : Java / Spring Boot / Maven / Spring / Python
+<br>
+> Frontend : React / JavaScript / HTML / CSS 
+<br>
+> DB: Oracle / MySQL
+<br>
 > AWS : EC2활용한 서비스 배포
 
 ---
