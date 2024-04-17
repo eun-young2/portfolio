@@ -2,11 +2,11 @@
 
 
 ## :pushpin: Intro
-오류를 해결하는 데에는 끈기가 답이라고 믿습니다.
+✔오류를 해결하는 데에는 끈기가 답이라고 믿습니다.
 <br>
-지속적인 노력과 탐구를 통해 기술적 문제를 극복하고
+✔지속적인 노력과 탐구를 통해 기술적 문제를 극복합니다.
 <br>
-팀원들과 원활한 소통과 협력을 통해 더 나은 결과물을 만들어내는 것에 최대한 가치를 둡니다.
+✔팀원들과 원활한 소통과 협력을 통해 더 나은 결과물을 만들어내는 것에 최대한 가치를 둡니다.
 <br>
 
 </br>
@@ -18,12 +18,11 @@
 
 </br>
 
-## :pushpin: Projects
+## :pushpin: 기술스택
 ### 1. [포트폴리오]
 >  
 >
 >  
->기술 스택:
 > <br>
 > ![image](https://github.com/eun-young2/portfolio/assets/153056455/88b5b430-d1a6-40d9-be25-b9f0262e0afe)
 > ![image](https://github.com/eun-young2/portfolio/assets/153056455/ce30c92c-9fa9-4982-9037-4551b5908b6f)
@@ -40,7 +39,7 @@
 > AWS : EC2활용한 서비스 배포
 
 ---
-
+## :pushpin: 프로젝트
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >사용자 성향 설문조사 데이터를 활용한 혼행족을 위한 여행 동행자 추천 서비스  (팀 프로젝트)  
 >개발 기간: 2024.12.17 ~ 2024.1.24  
@@ -49,8 +48,8 @@
 >Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5
 ><br/>
 >Maven / WebSocket / JavaScript / Html / CSS / 
->
->
+><br>
+>맡은 역할 : Backend <br>
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
 ---
@@ -63,10 +62,11 @@
 >Java 17 / Spring Boot /Maven / Python 3.9 / MySQL 5.1
 ><br>
 >Maven /JavaScript / Html / CSS/ React
->  
+><br>
+>맡은 역할 : Backendm,Frontend,Modeling <br>
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit/blob/main/README.md) 참고
 
 </br>
 
 ## :pushpin: 교육과정
-- 스마트인재개발원 언어지능기반 분석 서비스모델 개발자과정 (23.9 ~ 24.4 약7개월)
+- 스마트인재개발원 언어지능기반 분석 서비스모델 개발자과정 (23.9.27 ~ 24.4.17 7개월)
