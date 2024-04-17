@@ -50,7 +50,7 @@
 >개발 기간: 2024.3.12 ~ 2024.4.15  
 >  
 >기술 스택:  
->Java 17 / Spring Boot /Maven / Python 3.9 / MySQL 5.1 / Maven 
->JavaScript / Html / CSS/ React
+>Java 17 / Spring Boot /Maven / Python 3.9 / MySQL 5.1 
+>Maven /JavaScript / Html / CSS/ React
 >  
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit/blob/main/README.md) 참고
