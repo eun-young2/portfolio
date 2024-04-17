@@ -65,3 +65,8 @@
 >Maven /JavaScript / Html / CSS/ React
 >  
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit/blob/main/README.md) 참고
+
+</br>
+
+## :pushpin: 교육과정
+- 언어지능기반 분석 서비스모델 개발자과정 (23.9 ~ 24.4 약7개월)
