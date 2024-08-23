@@ -25,8 +25,8 @@
 >  
 > <br>
 >
-> ![image](https://github.com/eun-young2/portfolio/assets/153056455/7bf7aaa1-cb62-49e8-9158-23d1724aead8)
-> ![image](https://github.com/eun-young2/portfolio/assets/153056455/668f6b84-604b-4ea1-aeb6-79b95ca9cc98)
+> ![image](https://github.com/user-attachments/assets/b42f728a-39b6-48a2-bfaa-a23fc1b0a47e)
+> ![image](https://github.com/user-attachments/assets/01f3accb-0615-4ce9-b3fa-424f5b744512)
 > ![image](https://github.com/eun-young2/portfolio/assets/153056455/fa4c4479-2763-4cc2-9e13-8c26c9d83a2c)
 > ![image](https://github.com/eun-young2/portfolio/assets/153056455/04995843-dcda-4b95-bdf0-359818805955)
 
