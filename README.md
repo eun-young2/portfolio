@@ -77,7 +77,21 @@
 >맡은 역할 : Backend,Frontend,Modeling <br>
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit/blob/main/README.md) 참고
 
+### 4. [네 번째 프로젝트](https://github.com/2024-AISCHOOL-APP/PetFor)
+>Surprise 모델 활용 반려동물 전문가 연결 플랫폼 (팀 프로젝트)
+><br>
+>개발 기간: 2024.07.22 ~ 2024.08.01 (2주) 
+>  
+>기술 스택:  
+>node.js / express / FastAPI / Python 3.9 / MySQL 5.1
+><br>
+>JavaScript / Html / CSS/ React
+><br>
+>맡은 역할 : Backend <br>
+>[프로젝트 상세 설명](https://github.com/2024-AISCHOOL-APP/PetFor) 참고
+
 </br>
 
 ## :pushpin: 교육과정
 - 스마트인재개발원 언어지능기반 분석 서비스모델 개발자과정 (23.9.27 ~ 24.4.17 7개월)
+- 인공지능사관학교 앱기반 앱개발자과정 (24.5.27 ~ 24.11.26 6개월)
