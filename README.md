@@ -31,7 +31,7 @@
 > ![image](https://github.com/eun-young2/portfolio/assets/153056455/04995843-dcda-4b95-bdf0-359818805955)
 
 <br>
->Backend : Java / Spring Boot / Maven / Spring / Python
+>Backend : node.js/ express / Python
 <br>
 > Frontend : React / JavaScript / HTML / CSS 
 <br>
