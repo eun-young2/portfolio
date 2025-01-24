@@ -90,6 +90,19 @@
 >맡은 역할 : Backend <br>
 >[프로젝트 상세 설명](https://github.com/2024-AISCHOOL-APP/PetFor) 참고
 
+### 5. [다섯 번째 프로젝트](https://github.com/eun-young2/ShareWare)
+>비전 AI기반 공유형 창고 관리 서비스 (팀 프로젝트)
+><br>
+>개발 기간: 2024.10.14 ~ 2024.11.24 (6주) 
+>  
+>기술 스택:  
+>node.js / express / FastAPI / Python 3.9 / MySQL 5.1
+><br>
+>Dart / Flutter 
+><br>
+>맡은 역할 : Backend <br>
+>[프로젝트 상세 설명](https://github.com/eun-young2/ShareWare) 참고
+
 </br>
 
 ## :pushpin: 교육과정
