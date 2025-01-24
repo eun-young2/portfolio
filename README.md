@@ -80,7 +80,7 @@
 ### 4. [네 번째 프로젝트](https://github.com/2024-AISCHOOL-APP/PetFor)
 >Surprise 모델 활용 반려동물 전문가 연결 플랫폼 (팀 프로젝트)
 ><br>
->개발 기간: 2024.07.22 ~ 2024.08.01 (2주) 
+>개발 기간: 2024.07.22 ~ 2024.08.01 
 >  
 >기술 스택:  
 >node.js / express / FastAPI / Python 3.9 / MySQL 5.1
@@ -93,7 +93,7 @@
 ### 5. [다섯 번째 프로젝트](https://github.com/eun-young2/ShareWare)
 >비전 AI기반 공유형 창고 관리 서비스 (팀 프로젝트)
 ><br>
->개발 기간: 2024.10.14 ~ 2024.11.24 (6주) 
+>개발 기간: 2024.10.14 ~ 2024.11.24  
 >  
 >기술 스택:  
 >node.js / express / FastAPI / Python 3.9 / MySQL 5.1
