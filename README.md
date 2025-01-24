@@ -31,7 +31,7 @@
 > ![image](https://github.com/eun-young2/portfolio/assets/153056455/04995843-dcda-4b95-bdf0-359818805955)
 
 <br>
->Backend : node.js/ express / Python
+>Backend : Node.js/ express / Python
 <br>
 > Frontend : React / JavaScript / HTML / CSS 
 <br>
@@ -83,7 +83,7 @@
 >개발 기간: 2024.07.22 ~ 2024.08.01 
 >  
 >기술 스택:  
->node.js / express / FastAPI / Python 3.9 / MySQL 5.1
+>Node.js / express / FastAPI / Python 3.9 / MySQL 5.1
 ><br>
 >JavaScript / Html / CSS/ React
 ><br>
@@ -96,7 +96,7 @@
 >개발 기간: 2024.10.14 ~ 2024.11.24  
 >  
 >기술 스택:  
->node.js / express / FastAPI / Python 3.9 / MySQL 5.1
+>Node.js / express / FastAPI / Python 3.9 / MySQL 5.1
 ><br>
 >Dart / Flutter 
 ><br>
