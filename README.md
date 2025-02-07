@@ -106,7 +106,7 @@
 </br>
 
 ## :pushpin: 매일 SQL 학습
-### 5. [프로그래머](https://github.com/eun-young2/Programmers.git)
+### [프로그래머스 풀이](https://github.com/eun-young2/Programmers.git)
 
 ## :pushpin: 교육과정
 - 스마트인재개발원 언어지능기반 분석 서비스모델 개발자과정 (23.9.27 ~ 24.4.17 7개월)
