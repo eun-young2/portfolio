@@ -13,7 +13,6 @@
 
 ## :pushpin: Contact
 - 이메일: grit_ey@naver.com
-- 블로그: 
 - 깃헙: https://github.com/eun-young2/portfolio
 
 </br>
