@@ -48,7 +48,7 @@
 >
 > 기술 스택 : Python/ Flask/ JavaScript / Html / CSS
 > <br>
-> 맡은 역할 : 불쾌지수에 따른 기아 안타율 분석
+> 맡은 역할 : 불쾌지수에 따른 기아 안타율 분석<br>
 > [프로젝트 상세 설명](https://github.com/Parkjinew/Baseball-Data) 참고
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
